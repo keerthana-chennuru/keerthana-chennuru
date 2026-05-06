@@ -118,11 +118,11 @@ applications and REST integrations to Flow Designer automations and data import 
 ## 🌐 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/keerthana-chennuru-734717286">
+  <a href="https://www.linkedin.com/in/keerthana-chennuru-734717286/">
     <img src="https://img.shields.io/badge/LinkedIn-Keerthana%20Chennuru-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:cgnanakeerthana@gmail.com">
+  <a href="mailto:keerthanachennuru1822@gmail.com">
     <img src="https://img.shields.io/badge/Email-cgnanakeerthana%40gmail.com-c0392b?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
