@@ -7,7 +7,7 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=99999&color=00C8B4&center=true&vCenter=true&width=480&lines=ServiceNow+Developer+%F0%9F%9A%80" alt="Role" />
 </p>
-<p align="center">ServiceNow Developer |ITSM Specialist |Integration & Automation Enthusiast
+<p align="center">ServiceNow Developer | ITSM Specialist | Integration & Automation Enthusiast
 
 - I build scalable, well-documented solutions on the ServiceNow platform from custom ITSM
 applications and REST integrations to Flow Designer automations and data import pipelines.
