@@ -22,6 +22,10 @@ applications and REST integrations to Flow Designer automations and data import 
 
 ## 🙋‍♀️ About Me
 
+<img src="https://github.com/user-attachments/assets/3185e803-5e37-4b4a-92a8-5e65c4e7380d" width="250" align="right"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A9FBF&width=500&lines=Integration+%7C+Automation+Enthusiast;Always+learning+something+new...+%F0%9F%92%BB" alt="Typing SVG" />
+  
 - 🌍 Based in **Hyderabad, India**
 - 💼 ServiceNow Developer at **Swiss RE** | EX-EG India | Ex-HCLTech 
 - ⏱️ **3.8+ years** of hands-on ServiceNow development & administration
