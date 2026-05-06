@@ -118,7 +118,7 @@ applications and REST integrations to Flow Designer automations and data import 
 ## 🌐 Let's Connect
 
 <p>
-<a href="[https://www.linkedin.com/in/keerthana-chennuru-734717286/](https://www.linkedin.com/in/keerthana-chennuru-734717286/)">
+<a href="https://www.linkedin.com/in/keerthana-chennuru-734717286/">
   <img src="https://img.shields.io/badge/LinkedIn-Keerthana%20Chennuru-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
