@@ -123,7 +123,7 @@ applications and REST integrations to Flow Designer automations and data import 
   </a>
   &nbsp;
   <a href="mailto:keerthanachennuru1822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cgnanakeerthana%40gmail.com-c0392b?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-keerthanachennuru1822%40gmail.com-c0392b?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
