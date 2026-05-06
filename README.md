@@ -5,16 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=99999&color=00C8B4&center=true&vCenter=true&width=480&lines=ServiceNow+Developer+%26+ITSM+Specialist+%F0%9F%9A%80" alt="Role" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=99999&color=00C8B4&center=true&vCenter=true&width=480&lines=ServiceNow+Developer+%F0%9F%9A%80" alt="Role" />
 </p>
+<p align="center">ServiceNow Developer |ITSM Specialist |Integration & Automation Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ServiceNow-CSA%20Certified-00C8B4?style=for-the-badge&logo=servicenow&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Flow%20Designer-Certified-00C8B4?style=for-the-badge&logo=servicenow&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Integration%20Hub-Certified-00C8B4?style=for-the-badge&logo=servicenow&logoColor=white"/>
-</p>
+- I build scalable, well-documented solutions on the ServiceNow platform from custom ITSM
+applications and REST integrations to Flow Designer automations and data import pipelines.
+- Specialized in Flow Designer, Business Rules, Client Scripts, Script Includes, ACLs, and REST API integrations
+- Experienced in integrating ServiceNow with Salesforce and Confluent Kafka for real-time, event-driven data exchange
+- Built and managed 10+ Service Catalog workflows supporting 100+ end users across service management operations
+- Delivered automation solutions that reduced manual processing effort by ~30% with zero-defect data migrations
+- Proficient in Update Set lifecycle management from dev to test to production with zero rollback incidents
+
 
 ---
 
