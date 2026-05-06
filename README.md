@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! 👋 &nbsp;I'm <strong>Keerthana Chennuru</strong>
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> &nbsp;I'm <strong>Keerthana Chennuru</strong>
 </h1>
 
 </p>
